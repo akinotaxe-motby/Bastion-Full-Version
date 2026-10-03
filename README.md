@@ -238,4 +238,4 @@ This repository serves as the official landing page for Bastion. The software is
 **Get the most recent version of Bastion today!**
 
 ---
-**Last updated:** 2026-10-03 15:40:07 UTC
+**Last updated:** 2026-10-03 18:58:34 UTC
